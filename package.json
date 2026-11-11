@@ -1,0 +1,8 @@
+{
+  "name": "dragon-pearl-shop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D glass online shop with a private admin panel. No dependencies.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
